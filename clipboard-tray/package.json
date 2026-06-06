@@ -1,0 +1,13 @@
+{
+  "name": "clipboard-tray",
+  "version": "1.0.0",
+  "description": "클립보드 히스토리 트레이 앱",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^29.0.0"
+  },
+  "license": "MIT"
+}
